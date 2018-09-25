@@ -13,9 +13,6 @@ Find me on Twitter [@koorchik](https://twitter.com/koorchik).
 
 I will talk about virtual reality (VR). At what state the technology now, why and how to use it. JavaScript is very popular today it is possible todo almost any time of application with it. And it seems that even VR applications can be build easily with JavaScript and React today. The technology is very yang but it will be great to every JS dev to know about new possibilities.
 
-<img src="images/making_security_usable.jpg" alt="Making Security Usable: Product Engineer Perspective" style="height: 466;"/>
-
-
 **Presented at:** 
 
 * [OdessaJS 2018](http://odessajs.org) July 6-8 (the talk was about React 360)
