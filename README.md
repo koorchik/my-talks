@@ -115,6 +115,73 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 # 2016
 
-# 2015
 
+## How to build a desktop application in JS without using webview
+
+**Description:**
+
+
+**Presented at:** 
+
+* [KharkivJs 2016](https://kharkivjs.org/), Kharkiv, November 5-6 
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=Qfe93CMhtPI)
+* [Slides]()  
+
+-----------------------------------------------------------------------------------------------------------------
+
+## Excel in JavaScript
+
+**Description:**
+
+
+**Presented at:** 
+
+* [Dev At Work JS meetup Minsk](http://js.devatwork.net/minsk/), Minsk, October 15 
+* [Dev At Work JS meetup Kyiv](http://js.devatwork.net/), Kyiv, September 10 
+
+**Content:**
+
+* [Video]()
+* [Slides]()
+
+-----------------------------------------------------------------------------------------------------------------
+
+## How to translate your Single Page Application 
+
+**Description:**
+
+
+**Presented at:** 
+
+* [WebCamp](), Odessa, July 29-31 
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=LRYiAt9ZTho)
+* [Slides](https://www.slideshare.net/koorchik/how-to-translate-your-single-page-application-webcamp-2016-en)
+
+-----------------------------------------------------------------------------------------------------------------
+
+## Frontend trends 2015 - 2016
+
+**Description:**
+
+
+**Presented at:** 
+
+* [JS Lab 2016](), Odessa, March 12
+* [Frontend Madness](http://frontend-madness.goit.ua/), Kyiv, March 19 
+* [iForum 2016](https://2016.iforum.ua/), Kyiv, April 
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=AUq5uiubAs4)
+* [Slides](https://www.slideshare.net/koorchik/js-lab-2016-frontend-trends-2015-2016)
+
+
+
+# 2015
 
