@@ -181,7 +181,40 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 * [Video](https://www.youtube.com/watch?v=AUq5uiubAs4)
 * [Slides](https://www.slideshare.net/koorchik/js-lab-2016-frontend-trends-2015-2016)
 
-
+-----------------------------------------------------------------------------------------------------------------
 
 # 2015
+
+## Distributed Computing with JavaScript
+
+**Description:**
+
+
+**Presented at:** 
+
+* KyivJS Meetup, Kyiv, June 12
+* Odessa Innovation Week 2015 - WebCamp 2015, Odessa, July 1 
+
+**Content:**
+
+* [Video from WebCamp](https://www.youtube.com/watch?v=yebw5Zrsd1Y)
+* [Video from KyivJS, screen](https://www.youtube.com/watch?v=rRmY0c7ENsA)
+* [Slides](https://www.slideshare.net/koorchik/hadoop-webcamp-2015)
+
+-----------------------------------------------------------------------------------------------------------------
+
+## The Pain and the Joy of creating isomorphic apps in ReactJS
+
+**Description:**
+
+
+**Presented at:** 
+
+* KharkivJS 2015, Kharkiv, November
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=YQDfCnoAnEk)
+* [Slides](https://www.slideshare.net/koorchik/kharkiv-js-2015-creating-isomorphic-applications-in-react-en)
+* [Read more in post](https://reactjsnews.com/isomorphic-react-in-real-life)
 
