@@ -1,7 +1,14 @@
 A list of topics I speak about on the different conferences, including posts, videos, slides etc. I track resources on my own, so maybe I'm missing smth.
 
-I'm CEO at [@WebbyLab](http://twitter.com/webbylab).
+I'm CEO and solution architect at [@WebbyLab](http://twitter.com/webbylab).
 Find me on Twitter [@koorchik](https://twitter.com/koorchik).
+
+
+Open source:
+* JavaScript https://www.npmjs.com/~koorchik
+* Perl https://metacpan.org/author/KOORCHIK
+
+
 
 -----------------------------------------------------------------------------------------------------------------
 
