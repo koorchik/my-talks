@@ -20,7 +20,7 @@ Open source:
 | 24 May 2019 | The working architecture of Web applications | [runIT 2019](https://www.run-it.com.ua/) | Dnepr, Ukraine
 | 7 June 2019 | The working architecture of NodeJs applications | [Amsterdam JS](https://jsnation.com/) | Amsterdam, Netherlands
 | 20-21 July 2019 | 6 ways how to hack your JavaScript application| [Odessa JS 2019](http://odessajs.org/) | Odessa, Ukraine
-| 20-21 July 2019 | Real world Perl applications architecture | [PerlCon 2019](https://perlcon.eu/) | Riga, Latvia
+| 7-9 August 2019 | Real world Perl applications architecture | [PerlCon 2019](https://perlcon.eu/) | Riga, Latvia
 
 -----------------------------------------------------------------------------------------------------------------
 
