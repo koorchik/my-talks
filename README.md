@@ -26,7 +26,23 @@ Open source:
 
 # 2019
 
-## The working architecture of NodeJs applications?
+## 6 ways to hack your JavaScript application.
+
+**Description:**
+
+This will be 6 live hacking demos. We will not do theory, but will see in practice how small and not always obvious errors lead to significant vulnerabilities in your JavaScript application.
+
+**Presented at:** 
+
+* [JS Fest 2019](http://jsfest.com.ua/jsfest2019spring/) April 5-6 (the talk was about 6 ways to hack the JavaScript application)
+
+**Content:**
+
+* [Slides](https://www.slideshare.net/JSFestUA/js-fest-2019-6-javascript/JSFestUA/js-fest-2019-6-javascript)  
+
+-----------------------------------------------------------------------------------------------------------------
+
+## The working architecture of NodeJs applications.
 
 **Description:**
 
@@ -35,14 +51,16 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 **Presented at:** 
 
 * [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 (the talk was about the architectural aspects of major Node JS projects)
+* [DevPoint 2019](http://devpoint.ua/) March 15 (the talk was the working architecture of NodeJs applications)
 
 **Content:**
 
-* [Slides](https://docs.google.com/presentation/d/1NarbkLAoCfHUR_gbxYLbtwUzV2s5XfBk34_9l9E8r1M/edit#slide=id.g4fd74ed75e_0_172)  
+* [Video](https://www.youtube.com/watch?v=TjvIEgBCxZo)
+* [Slides](https://www.slideshare.net/secret/1g38dVy5al76dX)  
 
 -----------------------------------------------------------------------------------------------------------------
 
-## How to create a high peformance Excel engine in JavaScript
+## How to create a high peformance Excel engine in JavaScript?
 
 **Description:**
 
@@ -54,7 +72,7 @@ I will talk about:
 
 **Presented at:** 
 
-* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 (the talk was about the architectural aspects of major Node JS projects)
+* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 (the talk was about a high peformance Excel engine in JavaScript)
 
 **Content:**
 
