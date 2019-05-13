@@ -24,6 +24,61 @@ Open source:
 
 -----------------------------------------------------------------------------------------------------------------
 
+# 2019
+
+## The working architecture of NodeJs applications?
+
+**Description:**
+
+I've seen a lot of NodeJs applications. I see a lot of misunderstandings around architectural patterns. 99% of NodeJS tutorials do not cover this topic and limited to "hello world" apps. How to build a really large application? What to choose Monolith or Microservices? How to think about architectural layers? What is wrong with the majority of JS frameworks? How does GraphQL influence my architecture? I will answer all of these questions.
+
+**Presented at:** 
+
+* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 (the talk was about the architectural aspects of major Node JS projects)
+
+**Content:**
+
+* [Slides](https://docs.google.com/presentation/d/1NarbkLAoCfHUR_gbxYLbtwUzV2s5XfBk34_9l9E8r1M/edit#slide=id.g4fd74ed75e_0_172)  
+
+-----------------------------------------------------------------------------------------------------------------
+
+## How to create a high peformance Excel engine in JavaScript
+
+**Description:**
+
+You have complex mathematical models (millions of cells, hudrends thousand of formulas) in Excel. And you need to run it browser and mobile without excel. I will talk how we created own spreadheet engine compatible with MS Excel which allows us to run any Excel model without Excel.
+I will talk about:
+1. Architecture
+2. Algorithms
+3. JavaScript peformance optimization.
+
+**Presented at:** 
+
+* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 (the talk was about the architectural aspects of major Node JS projects)
+
+**Content:**
+
+* [Slides](https://docs.google.com/presentation/d/1kE3pmbZqHzyjZ6r9ugsXb1OZbO8Hxh3s4oiMW0bA1qY/edit#slide=id.g10ea3860e_045)  
+
+-----------------------------------------------------------------------------------------------------------------
+
+## Yet another JSON RPC library?
+
+**Description:**
+
+I will tell you why you need JSON RPC and why I created another library. I'll show non-standard usage scenarios. Also, I'll analyze the architectural patterns that have proven useful and the decisions that had to be taken during the development. Moreover, I’ll show what modern JS can offer us for developing libraries.
+
+**Presented at:** 
+
+* [KyivJS Meetup #21](http://kyivjs.org/) February 7 (the talk was about JSON RPC library)
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=84Y5n32tX5E&list=PLxw9RJPDS60riQwoR-WpcUuSqRVeGeSny&index=2)
+* [Slides](https://www.slideshare.net/koorchik/yet-another-json-rpc-library-mole-rpc)  
+
+-----------------------------------------------------------------------------------------------------------------
+
 # 2018
 
 ## How to create a VR application with React 360.
