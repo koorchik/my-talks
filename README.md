@@ -34,7 +34,7 @@ This will be 6 live hacking demos. We will not do theory, but will see in practi
 
 **Presented at:** 
 
-* [JS Fest 2019](http://jsfest.com.ua/jsfest2019spring/) April 5-6 (the talk was about 6 ways to hack the JavaScript application)
+* [JS Fest 2019](http://jsfest.com.ua/jsfest2019spring/) April 5-6
 
 **Content:**
 
@@ -50,8 +50,8 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 **Presented at:** 
 
-* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 (the talk was about the architectural aspects of major Node JS projects)
-* [DevPoint 2019](http://devpoint.ua/) March 15 (the talk was the working architecture of NodeJs applications)
+* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 
+* [DevPoint 2019](http://devpoint.ua/) March 15
 
 **Content:**
 
@@ -72,7 +72,7 @@ I will talk about:
 
 **Presented at:** 
 
-* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 (the talk was about a high peformance Excel engine in JavaScript)
+* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23
 
 **Content:**
 
@@ -88,7 +88,7 @@ I will tell you why you need JSON RPC and why I created another library. I'll sh
 
 **Presented at:** 
 
-* [KyivJS Meetup #21](http://kyivjs.org/) February 7 (the talk was about JSON RPC library)
+* [KyivJS Meetup #21](http://kyivjs.org/) February 7
 
 **Content:**
 
