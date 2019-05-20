@@ -99,6 +99,23 @@ I will tell you why you need JSON RPC and why I created another library. I'll sh
 
 # 2018
 
+## Information Security Practice.
+
+**Description:**
+
+This will be 8 live demo hacking. We will not analyze the theory, but we will see in practice how small and not always obvious errors lead to global vulnerabilities in your JavaScript application.
+
+**Presented at:** 
+
+* [KharkivJS 2018](https://kharkivjs.org/) October 6-7
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=kwPELSlAbdw)
+* [Slides](https://www.slideshare.net/koorchik/kharkivjs-2018-information-security-practice)  
+
+-----------------------------------------------------------------------------------------------------------------
+
 ## How to create a VR application with React 360.
 
 **Description:**
@@ -310,3 +327,56 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 * [Slides](https://www.slideshare.net/koorchik/kharkiv-js-2015-creating-isomorphic-applications-in-react-en)
 * [Read more in post](https://reactjsnews.com/isomorphic-react-in-real-life)
 
+-----------------------------------------------------------------------------------------------------------------
+
+# 2013
+
+## LIVR Language Independent Validation Rules.
+
+**Description:**
+
+
+**Presented at:** 
+
+* OSDN-UA 2013, Kyiv
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=j0_IeMyuNRY)
+* [Slides](https://www.slideshare.net/koorchik/livr-51332678)  
+
+-----------------------------------------------------------------------------------------------------------------
+
+# 2012
+
+## Testing orm based code.
+
+**Description:**
+
+It is always a pain to test code with DB/ORM-dependencies. So, here the rules to ease the process.
+
+**Presented at:** 
+
+* Perl Mova 2012, Kyiv, May 12
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=js2or127qoc)
+* [Slides](https://www.slideshare.net/koorchik/testing-orm-basedcode-12922651)  
+
+-----------------------------------------------------------------------------------------------------------------
+
+# 2011
+
+## Maybe you do not know that ...
+
+**Description:**
+
+
+**Presented at:** 
+
+* Black Perl 2011
+
+**Content:**
+
+* [Slides](https://www.slideshare.net/koorchik/maybe-you-do-not-know-that)  
