@@ -26,6 +26,23 @@ Open source:
 
 # 2019
 
+## The working architecture of NodeJs applications (updated version).
+
+**Description:**
+
+I've seen a lot of NodeJs applications. I see a lot of misunderstandings around architectural patterns. 99% of NodeJS tutorials do not cover this topic and limited to "hello world" apps. How to build a really large application? What to choose Monolith or Microservices? How to think about architectural layers? What is wrong with the majority of JS frameworks? How does GraphQL influence my architecture? I will answer all of these questions.
+
+**Presented at:** 
+
+* [Node Ukraine](https://nodeukraine.org.ua/) May 17-18
+
+**Content:**
+
+* [Video]()
+* [Slides]()  
+
+-----------------------------------------------------------------------------------------------------------------
+
 ## 6 ways to hack your JavaScript application.
 
 **Description:**
@@ -38,7 +55,8 @@ This will be 6 live hacking demos. We will not do theory, but will see in practi
 
 **Content:**
 
-* [Slides](https://www.slideshare.net/JSFestUA/js-fest-2019-6-javascript/JSFestUA/js-fest-2019-6-javascript)  
+* [Video] (https://www.youtube.com/watch?v=tBXZRC1f34E&list=PLuOBDBq7MW71xJRGYcb_9HmPtvUlSFquL&index=6&t=0s)
+* [Slides] (https://www.slideshare.net/JSFestUA/js-fest-2019-6-javascript/JSFestUA/js-fest-2019-6-javascript)  
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -52,6 +70,7 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 * [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 
 * [DevPoint 2019](http://devpoint.ua/) March 15
+* [Node Ukraine](https://nodeukraine.org.ua/) May 17-18
 
 **Content:**
 
@@ -60,7 +79,7 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 -----------------------------------------------------------------------------------------------------------------
 
-## How to create a high peformance Excel engine in JavaScript?
+## How to create a high performance Excel engine in JavaScript?
 
 **Description:**
 
