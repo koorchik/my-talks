@@ -18,6 +18,7 @@ Open source:
 | ----------- | ----- | ----- | -------- |
 | 7 June 2019 | The working architecture of NodeJs applications | [Amsterdam JS](https://jsnation.com/) | Amsterdam, Netherlands
 | 20-21 July 2019 | 6 ways how to hack your JavaScript application| [Odessa JS 2019](http://odessajs.org/) | Odessa, Ukraine
+| 3 August 2019 | Language Independent Validation Rules 2.0 | [Vinnytsia JS](http://vinnytsiajs.org/) | Vinnytsia, Ukraine
 | 7-9 August 2019 | Real world Perl applications architecture | [PerlCon 2019](https://perlcon.eu/) | Riga, Latvia
 
 -----------------------------------------------------------------------------------------------------------------
