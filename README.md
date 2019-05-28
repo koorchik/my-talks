@@ -16,8 +16,6 @@ Open source:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 17-18 May 2019 | The working architecture of NodeJs applications | [Node Ukraine](https://nodeukraine.org.ua/) | Kyiv, Ukraine
-| 25 May 2019 | The working architecture of Web applications | [runIT 2019](https://www.run-it.com.ua/) | Dnipro, Ukraine
 | 7 June 2019 | The working architecture of NodeJs applications | [Amsterdam JS](https://jsnation.com/) | Amsterdam, Netherlands
 | 20-21 July 2019 | 6 ways how to hack your JavaScript application| [Odessa JS 2019](http://odessajs.org/) | Odessa, Ukraine
 | 7-9 August 2019 | Real world Perl applications architecture | [PerlCon 2019](https://perlcon.eu/) | Riga, Latvia
@@ -25,6 +23,23 @@ Open source:
 -----------------------------------------------------------------------------------------------------------------
 
 # 2019
+
+## The working architecture of Web applications.
+
+**Description:**
+
+We launched more than 60 projects, developed a web application architecture that is suitable for projects of completely different sizes. In the report, I'll analyze this architecture, will consider the issue of “monolith or microservices”, will show the main architectural errors that developers make.
+
+**Presented at:** 
+
+* [runIT 2019](https://www.run-it.com.ua//) Dnipro, May 25
+
+**Content:**
+
+* [Video]()
+* [Slides]()  
+
+-----------------------------------------------------------------------------------------------------------------
 
 ## The working architecture of NodeJs applications (updated version).
 
@@ -34,12 +49,12 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 **Presented at:** 
 
-* [Node Ukraine](https://nodeukraine.org.ua/) May 17-18
+* [Node Ukraine](https://nodeukraine.org.ua/) Kyiv, May 17-18
 
 **Content:**
 
 * [Video]()
-* [Slides]()  
+* [Slides](https://docs.google.com/presentation/d/1av0_8Wg3Juey2A4I3x_VP_aGIUEzOEV9HHxGdTc5epY/edit#slide=id.g4fd74ed75e_0_172)  
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -55,8 +70,8 @@ This will be 6 live hacking demos. We will not do theory, but will see in practi
 
 **Content:**
 
-* [Video] (https://www.youtube.com/watch?v=tBXZRC1f34E&list=PLuOBDBq7MW71xJRGYcb_9HmPtvUlSFquL&index=6&t=0s)
-* [Slides] (https://www.slideshare.net/JSFestUA/js-fest-2019-6-javascript/JSFestUA/js-fest-2019-6-javascript)  
+* [Video](https://www.youtube.com/watch?v=tBXZRC1f34E&list=PLuOBDBq7MW71xJRGYcb_9HmPtvUlSFquL&index=6&t=0s)
+* [Slides](https://www.slideshare.net/JSFestUA/js-fest-2019-6-javascript/JSFestUA/js-fest-2019-6-javascript)
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -70,7 +85,6 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 * [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 
 * [DevPoint 2019](http://devpoint.ua/) March 15
-* [Node Ukraine](https://nodeukraine.org.ua/) May 17-18
 
 **Content:**
 
