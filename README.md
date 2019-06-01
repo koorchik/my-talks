@@ -34,26 +34,12 @@ We launched more than 60 projects, developed a web application architecture that
 **Presented at:** 
 
 * [runIT 2019](https://www.run-it.com.ua//) Dnipro, May 25
+* [DevPoint 2019](http://devpoint.ua/) March 15
 
 **Content:**
 
-* [Slides](https://docs.google.com/presentation/d/1Wh6hQGAPznrKANAiLu5-tYr3cFpu_Q7EbCvjsJ44Tfo)  
-
------------------------------------------------------------------------------------------------------------------
-
-## The working architecture of NodeJs applications (updated version).
-
-**Description:**
-
-I've seen a lot of NodeJs applications. I see a lot of misunderstandings around architectural patterns. 99% of NodeJS tutorials do not cover this topic and limited to "hello world" apps. How to build a really large application? What to choose Monolith or Microservices? How to think about architectural layers? What is wrong with the majority of JS frameworks? How does GraphQL influence my architecture? I will answer all of these questions.
-
-**Presented at:** 
-
-* [Node Ukraine](https://nodeukraine.org.ua/) Kyiv, May 17-18
-
-**Content:**
-
-* [Slides](https://docs.google.com/presentation/d/1av0_8Wg3Juey2A4I3x_VP_aGIUEzOEV9HHxGdTc5epY/edit#slide=id.g4fd74ed75e_0_172)  
+* [Video](https://www.youtube.com/watch?v=TjvIEgBCxZo)
+* [Slides](https://www.slideshare.net/secret/1g38dVy5al76dX) 
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -74,7 +60,7 @@ This will be 6 live hacking demos. We will not do theory, but will see in practi
 
 -----------------------------------------------------------------------------------------------------------------
 
-## The working architecture of NodeJs applications.
+## The working architecture of NodeJs applications (updated version).
 
 **Description:**
 
@@ -82,13 +68,12 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 **Presented at:** 
 
+* [Node Ukraine](https://nodeukraine.org.ua/) Kyiv, May 17-18
 * [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 
-* [DevPoint 2019](http://devpoint.ua/) March 15
 
 **Content:**
 
-* [Video](https://www.youtube.com/watch?v=TjvIEgBCxZo)
-* [Slides](https://www.slideshare.net/secret/1g38dVy5al76dX)  
+* [Slides](https://docs.google.com/presentation/d/1av0_8Wg3Juey2A4I3x_VP_aGIUEzOEV9HHxGdTc5epY/edit#slide=id.g4fd74ed75e_0_172)  
 
 -----------------------------------------------------------------------------------------------------------------
 
