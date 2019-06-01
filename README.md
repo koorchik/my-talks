@@ -37,8 +37,7 @@ We launched more than 60 projects, developed a web application architecture that
 
 **Content:**
 
-* [Video]()
-* [Slides]()  
+* [Slides](https://docs.google.com/presentation/d/1Wh6hQGAPznrKANAiLu5-tYr3cFpu_Q7EbCvjsJ44Tfo)  
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -54,7 +53,6 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 **Content:**
 
-* [Video]()
 * [Slides](https://docs.google.com/presentation/d/1av0_8Wg3Juey2A4I3x_VP_aGIUEzOEV9HHxGdTc5epY/edit#slide=id.g4fd74ed75e_0_172)  
 
 -----------------------------------------------------------------------------------------------------------------
