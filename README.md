@@ -16,7 +16,6 @@ Open source:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 7 June 2019 | The working architecture of NodeJs applications | [Amsterdam JS](https://jsnation.com/) | Amsterdam, Netherlands
 | 20-21 July 2019 | 6 ways how to hack your JavaScript application| [Odessa JS 2019](http://odessajs.org/) | Odessa, Ukraine
 | 3 August 2019 | Language Independent Validation Rules 2.0 | [Vinnytsia JS](http://vinnytsiajs.org/) | Vinnytsia, Ukraine
 | 7-9 August 2019 | Real world Perl applications architecture | [PerlCon 2019](https://perlcon.eu/) | Riga, Latvia
@@ -34,7 +33,7 @@ We launched more than 60 projects, developed a web application architecture that
 **Presented at:** 
 
 * [runIT 2019](https://www.run-it.com.ua//) Dnipro, May 25
-* [DevPoint 2019](http://devpoint.ua/) March 15
+* [DevPoint 2019](https://www.facebook.com/devpointua/?__tn__=kCH-R&eid=ARCEreONFvIEiz4xWWC4qSXyye-gQkeolf4ce-iGGOAHVDnH9miM7UFcZzBiylnwLklHos5OkRqz2Grd&hc_ref=ARTJeia6SE7Vx0A0HvEaAS-UGGvbu7hFkgyWRqNzTLVPpzvhPbSV0mkTTiFWNuKaQJ0&fref=nf) March 15
 
 **Content:**
 
@@ -68,11 +67,13 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 **Presented at:** 
 
+* [Amsterdam JS](https://jsnation.com/) Amsterdam, June 6-7
 * [Node Ukraine](https://nodeukraine.org.ua/) Kyiv, May 17-18
 * [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 
 
 **Content:**
 
+* [Video](https://www.youtube.com/watch?v=WPWU8A4wnt0&feature=youtu.be)
 * [Slides](https://docs.google.com/presentation/d/1av0_8Wg3Juey2A4I3x_VP_aGIUEzOEV9HHxGdTc5epY/edit#slide=id.g4fd74ed75e_0_172)  
 
 -----------------------------------------------------------------------------------------------------------------
