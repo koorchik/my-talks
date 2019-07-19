@@ -19,6 +19,12 @@ Open source:
 | 20-21 July 2019 | 6 ways how to hack your JavaScript application| [Odessa JS 2019](http://odessajs.org/) | Odessa, Ukraine
 | 3 August 2019 | Language Independent Validation Rules 2.0 | [Vinnytsia JS](http://vinnytsiajs.org/) | Vinnytsia, Ukraine
 | 7-9 August 2019 | Real world Perl applications architecture | [PerlCon 2019](https://perlcon.eu/) | Riga, Latvia
+| 17 August 2019 | 6 ways how to hack your JavaScript application | Global CSS | Zhytomyr, Ukraine
+| 9-13 September 2019 | TBA (JS) | Open Tech Week JavaScript | Odessa, Ukraine
+| 19 September 2019 | The working architecture of NodeJS applications | CodeIT Meetup | Kharkiv, Ukraine
+| 26 September 2019 | PENDING | Eat Dog | Kharkiv, Ukraine
+| 28 September 2019 | TBA (Frontend development processes) | Kyiv CTO Meetup | Kyiv, Ukraine
+| 5-6 October 2019 | TBA  (JS) | [KharkivJS 2019](https://kharkivjs.org/) | Kharkiv, Ukraine
 | 7 December 2019 | 6 ways to hack your React/NodeJs application | [React Native & React Camp ](http://2019.reactnative.com.ua/) | Kyiv, Ukraine
 
 -----------------------------------------------------------------------------------------------------------------
