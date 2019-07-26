@@ -24,6 +24,7 @@ Open source:
 | 19 September 2019 | The working architecture of NodeJS applications | CodeIT Meetup | Kharkiv, Ukraine
 | 28 September 2019 | TBA (Frontend development processes) | Kyiv CTO Meetup | Kyiv, Ukraine
 | 5-6 October 2019 | TBA  (JS) | [KharkivJS 2019](https://kharkivjs.org/) | Kharkiv, Ukraine
+| 7-8 November 2019 | How We Used Redux on Backend and Got Offline-First Mobile App as a Result | [Mobile Era 2019](https://mobileera.rocks/) | Oslo, Norway
 | 7 December 2019 | 6 ways to hack your React/NodeJs application | [React Native & React Camp ](http://2019.reactnative.com.ua/) | Kyiv, Ukraine
 
 -----------------------------------------------------------------------------------------------------------------
