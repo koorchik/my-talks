@@ -55,6 +55,7 @@ Having 15-year experience in web development, I have tried my hands at dozens of
 **Content:**
 
 * [Video](https://www.youtube.com/watch?v=URhJHdF2Z54)
+* [Slides](https://www.slideshare.net/koorchik/livr-20-in-js-vinnytsiajs-2019)
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -128,7 +129,8 @@ I will talk about:
 
 **Presented at:** 
 
-* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23
+* [KharkivJS 2019](https://kharkivjs.org/) Kharkiv, October 5-6
+* [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) Kyiv, February 23
 
 **Content:**
 
@@ -144,7 +146,7 @@ I will tell you why you need JSON RPC and why I created another library. I'll sh
 
 **Presented at:** 
 
-* [KyivJS Meetup #21](http://kyivjs.org/) February 7
+* [KyivJS Meetup #21](http://kyivjs.org/) Kyiv, February 7
 
 **Content:**
 
@@ -163,7 +165,7 @@ This will be 8 live demo hacking. We will not analyze the theory, but we will se
 
 **Presented at:** 
 
-* [KharkivJS 2018](https://kharkivjs.org/) October 6-7
+* [KharkivJS 2018](https://kharkivjs.org/) Kharkiv, October 6-7
 
 **Content:**
 
@@ -216,7 +218,7 @@ I will talk about virtual reality (VR). At what state the technology now, why an
 
 **Presented at:** 
 
-* [KharkivJs 2017](https://kharkivjs.org/) October 28-29 
+* [KharkivJs 2017](https://kharkivjs.org/) Kharkiv, October 28-29 
 
 **Content:**
 
@@ -249,8 +251,8 @@ I will talk about virtual reality (VR). At what state the technology now, why an
 
 **Presented at:** 
 
-* [iForum 2017](https://2017.iforum.ua/) May 25 
-* Kyiv ReactJs First Meetup, February 18
+* [iForum 2017](https://2017.iforum.ua/) Kyiv, May 25 
+* [Kyiv ReactJs First Meetup] Kyiv, February 18
 
 **Content:**
 
@@ -268,7 +270,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 **Presented at:** 
 
-* AI and BigData Lab, Odessa, May 16
+* [AI and BigData Lab] Odessa, May 16
 
 **Content:**
 
@@ -287,7 +289,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 **Presented at:** 
 
-* [KharkivJs 2016](https://kharkivjs.org/), Kharkiv, November 5-6 
+* [KharkivJs 2016](https://kharkivjs.org/) Kharkiv, November 5-6 
 
 **Content:**
 
@@ -303,8 +305,8 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 **Presented at:** 
 
-* [Dev At Work JS meetup Minsk](http://js.devatwork.net/minsk/), Minsk, October 15 
-* [Dev At Work JS meetup Kyiv](http://js.devatwork.net/), Kyiv, September 10 
+* [Dev At Work JS meetup Minsk](http://js.devatwork.net/minsk/) Minsk, October 15 
+* [Dev At Work JS meetup Kyiv](http://js.devatwork.net/) Kyiv, September 10 
 
 **Content:**
 
@@ -320,7 +322,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 **Presented at:** 
 
-* [WebCamp](), Odessa, July 29-31 
+* [WebCamp]() Odessa, July 29-31 
 
 **Content:**
 
@@ -336,9 +338,9 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 **Presented at:** 
 
-* [JS Lab 2016](), Odessa, March 12
-* [Frontend Madness](http://frontend-madness.goit.ua/), Kyiv, March 19 
-* [iForum 2016](https://2016.iforum.ua/), Kyiv, April 
+* [JS Lab 2016]() Odessa, March 12
+* [Frontend Madness](http://frontend-madness.goit.ua/) Kyiv, March 19 
+* [iForum 2016](https://2016.iforum.ua/) Kyiv, April 
 
 **Content:**
 
@@ -356,8 +358,8 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 **Presented at:** 
 
-* KyivJS Meetup, Kyiv, June 12
-* Odessa Innovation Week 2015 - WebCamp 2015, Odessa, July 1 
+* [KyivJS Meetup] Kyiv, June 12
+* [Odessa Innovation Week 2015 - WebCamp 2015] Odessa, July 1 
 
 **Content:**
 
@@ -374,7 +376,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 **Presented at:** 
 
-* KharkivJS 2015, Kharkiv, November
+* [KharkivJS 2015] Kharkiv, November
 
 **Content:**
 
@@ -393,7 +395,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 **Presented at:** 
 
-* OSDN-UA 2013, Kyiv
+* [OSDN-UA 2013] Kyiv
 
 **Content:**
 
@@ -412,7 +414,7 @@ It is always a pain to test code with DB/ORM-dependencies. So, here the rules to
 
 **Presented at:** 
 
-* Perl Mova 2012, Kyiv, May 12
+* [Perl Mova 2012] Kyiv, May 12
 
 **Content:**
 
@@ -430,7 +432,7 @@ It is always a pain to test code with DB/ORM-dependencies. So, here the rules to
 
 **Presented at:** 
 
-* Black Perl 2011
+* [Black Perl 2011]
 
 **Content:**
 
