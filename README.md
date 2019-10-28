@@ -16,12 +16,6 @@ Open source:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 20-21 July 2019 | 6 ways how to hack your JavaScript application| [Odessa JS 2019](http://odessajs.org/) | Odessa, Ukraine
-| 3 August 2019 | Language Independent Validation Rules 2.0 | [Vinnytsia JS](http://vinnytsiajs.org/) | Vinnytsia, Ukraine
-| 7-9 August 2019 | Real world Perl applications architecture | [PerlCon 2019](https://perlcon.eu/) | Riga, Latvia
-| 17 August 2019 | 6 ways how to hack your JavaScript application | [Frontend://tz](https://www.facebook.com/events/1051191765078822/) | Zhytomyr, Ukraine
-| 9-13 September 2019 | The working architecture of NodeJS applications | Open Tech Week JavaScript | Odessa, Ukraine
-| 19 September 2019 | The working architecture of NodeJS applications | CodeIT Meetup | Kharkiv, Ukraine
 | 28 September 2019 | TBA (Frontend development processes) | Kyiv CTO Meetup | Kyiv, Ukraine
 | 5-6 October 2019 | TBA  (JS) | [KharkivJS 2019](https://kharkivjs.org/) | Kharkiv, Ukraine
 | 7-8 November 2019 | How We Used Redux on Backend and Got Offline-First Mobile App as a Result | [Mobile Era 2019](https://mobileera.rocks/) | Oslo, Norway
@@ -31,11 +25,44 @@ Open source:
 
 # 2019
 
+## Real world Perl applications architecture.
+
+**Description:**
+
+I've seen a lot of Perl applications. I see a lot of misunderstandings around architectural patterns. 99% of Perl tutorials do not cover this topic and limited to "hello world" apps. How to build a really large application? What to choose Monolith or Microservices? How to think about architectural layers? How does GraphQL influence my architecture? I will answer all of these questions.
+
+**Presented at:** 
+
+* [PerlCon 2019](https://perlcon.eu/) Riga, August 7-9
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=ONHP4AEBU3s)
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+## Language Independent Validation Rules (LIVR) 2.0
+
+**Description:**
+
+Having 15-year experience in web development, I have tried my hands at dozens of validation libraries but didn’t manage to find the one to handle all my tasks. 5 years ago we decided to create a validator which will better than any other. Now LIVR supports a dozen of programming languages and it is battle tested in hudrends of projects. I will talk about the ideas behind, about architecture, use cases, pros and cons. Will show real examples.
+
+**Presented at:** 
+
+* [Vinnytsia JS](http://vinnytsiajs.org/) Vinnytsia, August 3
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=URhJHdF2Z54)
+
+-----------------------------------------------------------------------------------------------------------------
+
 ## The working architecture of Web applications.
 
 **Description:**
 
-We launched more than 60 projects, developed a web application architecture that is suitable for projects of completely different sizes. In the report, I'll analyze this architecture, will consider the issue of “monolith or microservices”, will show the main architectural errors that developers make.
+We launched more than 60 projects, developed a web application architecture that is suitable for projects of completely different sizes. Here I'll analyze this architecture, will consider the issue of “monolith or microservices”, will show the main architectural errors that developers make.
 
 **Presented at:** 
 
@@ -57,7 +84,9 @@ This will be 6 live hacking demos. We will not do theory, but will see in practi
 
 **Presented at:** 
 
-* [JS Fest 2019](http://jsfest.com.ua/jsfest2019spring/) April 5-6
+* [Frontend://tz](https://www.facebook.com/events/1051191765078822/) Zhytomyr, August 17 
+* [Odessa JS 2019](http://odessajs.org/) Odessa, July 20-21
+* [JS Fest 2019](http://jsfest.com.ua/jsfest2019spring/) Kyiv, April 5-6
 
 **Content:**
 
@@ -74,6 +103,8 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 **Presented at:** 
 
+* [CodeIT Meetup] Kharkiv, September 19 
+* [Open Tech Week JavaScript] Odessa, September 9-13  
 * [Amsterdam JS](https://jsnation.com/) Amsterdam, June 6-7
 * [Node Ukraine](https://nodeukraine.org.ua/) Kyiv, May 17-18
 * [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 
@@ -194,8 +225,7 @@ I will talk about virtual reality (VR). At what state the technology now, why an
 
 -----------------------------------------------------------------------------------------------------------------
 
-
-## Language Independent Validation Rules (LIVR) 2.0
+## Language Independent Validation Rules (LIVR) 2.0.
 
 **Description:**
 
@@ -212,7 +242,7 @@ I will talk about virtual reality (VR). At what state the technology now, why an
 
 -----------------------------------------------------------------------------------------------------------------
 
-## Virtual Reality in Web
+## Virtual Reality in Web.
 
 **Description:**
 
@@ -230,7 +260,7 @@ I will talk about virtual reality (VR). At what state the technology now, why an
 -----------------------------------------------------------------------------------------------------------------
 
 
-## How to extract information from text with Semgrex
+## How to extract information from text with Semgrex.
 
 **Description:**
 
@@ -250,7 +280,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 # 2016
 
 
-## How to build a desktop application in JS without using webview
+## How to build a desktop application in JS without using webview.
 
 **Description:**
 
@@ -266,7 +296,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 -----------------------------------------------------------------------------------------------------------------
 
-## Excel in JavaScript
+## Excel in JavaScript.
 
 **Description:**
 
@@ -283,7 +313,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 -----------------------------------------------------------------------------------------------------------------
 
-## How to translate your Single Page Application 
+## How to translate your Single Page Application.
 
 **Description:**
 
@@ -319,7 +349,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 # 2015
 
-## Distributed Computing with JavaScript
+## Distributed Computing with JavaScript.
 
 **Description:**
 
@@ -337,7 +367,7 @@ Lighthing talk about using of Semgrex in JavaScript for working with dependency 
 
 -----------------------------------------------------------------------------------------------------------------
 
-## The Pain and the Joy of creating isomorphic apps in ReactJS
+## The Pain and the Joy of creating isomorphic apps in ReactJS.
 
 **Description:**
 
