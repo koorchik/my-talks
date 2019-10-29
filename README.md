@@ -16,14 +16,51 @@ Open source:
 
 | Date        | Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 28 September 2019 | TBA (Frontend development processes) | Kyiv CTO Meetup | Kyiv, Ukraine
-| 5-6 October 2019 | TBA  (JS) | [KharkivJS 2019](https://kharkivjs.org/) | Kharkiv, Ukraine
 | 7-8 November 2019 | How We Used Redux on Backend and Got Offline-First Mobile App as a Result | [Mobile Era 2019](https://mobileera.rocks/) | Oslo, Norway
 | 7 December 2019 | 6 ways to hack your React/NodeJs application | [React Native & React Camp ](http://2019.reactnative.com.ua/) | Kyiv, Ukraine
 
 -----------------------------------------------------------------------------------------------------------------
 
 # 2019
+
+## How to create a high performance excel engine in JavaScript.
+
+**Description:**
+
+You have complex mathematical models (millions of cells, hundreds thousand of formulas) in Excel. And you need to run it browser and mobile without excel. I will talk how we created own spreadsheet engine compatible with MS Excel which allows us to run any Excel model without Excel. I will talk about:
+* Architecture
+* Algorithms
+* JavaScript performance optimization.
+
+**Presented at:** 
+
+* [KharkivJS 2019](https://kharkivjs.org/) Kharkiv, October 5-6 
+
+**Content:**
+
+* [Slides](https://www.slideshare.net/koorchik/how-to-create-a-high-performance-excel-engine-in-java-script)
+
+-----------------------------------------------------------------------------------------------------------------
+
+## Frontend development processes.
+
+**Description:**
+
+Areas for discussion:
+* Frontends frameworks and processes, microfrontends.
+* Integrating FE team with Backend team. Fullstack engineers. Rest vs. Graphql.
+* Interating FE and design teams.
+* FE testing approaches/frameworks. Unit/e2e.
+* Working with Legacy frontend.
+* Frontend CI/CD pipelines
+* Microfrontends.
+* Isomorphic apps. Crossplatform FE.
+
+**Presented at:** 
+
+* [Kyiv CTO Meetup](https://dou.ua/calendar/28768/) Kyiv, September 28
+
+-----------------------------------------------------------------------------------------------------------------
 
 ## Real world Perl applications architecture.
 
@@ -38,6 +75,7 @@ I've seen a lot of Perl applications. I see a lot of misunderstandings around ar
 **Content:**
 
 * [Video](https://www.youtube.com/watch?v=ONHP4AEBU3s)
+* [Slides](https://docs.google.com/presentation/d/1NarbkLAoCfHUR_gbxYLbtwUzV2s5XfBk34_9l9E8r1M/edit#slide=id.g4fd74ed75e_0_172)
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -112,7 +150,8 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 **Content:**
 
-* [Video](https://www.youtube.com/watch?v=WPWU8A4wnt0&feature=youtu.be)
+* [Video in English](https://www.youtube.com/watch?v=WPWU8A4wnt0&feature=youtu.be)
+* [Video in Russian]()
 * [Slides](https://docs.google.com/presentation/d/1av0_8Wg3Juey2A4I3x_VP_aGIUEzOEV9HHxGdTc5epY/edit#slide=id.g4fd74ed75e_0_172)  
 
 -----------------------------------------------------------------------------------------------------------------
