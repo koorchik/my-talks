@@ -142,8 +142,8 @@ I've seen a lot of NodeJs applications. I see a lot of misunderstandings around 
 
 **Presented at:** 
 
-* [CodeIT Meetup] Kharkiv, September 19 
-* [Open Tech Week JavaScript] Odessa, September 9-13  
+* [CodeIT Meetup](https://dou.ua/calendar/28504/) Kharkiv, September 19 
+* [Open Tech Week JavaScript] (https://dou.ua/calendar/28268/) Odessa, September 9-13 
 * [Amsterdam JS](https://jsnation.com/) Amsterdam, June 6-7
 * [Node Ukraine](https://nodeukraine.org.ua/) Kyiv, May 17-18
 * [Case Study Seminar "Architecture of 4 Real JavaScript Projects"](https://www.facebook.com/events/795183720819720/) February 23 
