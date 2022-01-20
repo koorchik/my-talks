@@ -1,3 +1,5 @@
+## THIS LIST IS OUTDATED. PLEASE, FOLLOW MY TALKS HERE [my-talks.net/viktor-turskyi](https://my-talks.net/viktor-turskyi)
+
 A list of topics I speak about on the different conferences, including posts, videos, slides etc. I track resources on my own, so maybe I'm missing smth.
 
 I'm CEO and solution architect at [@WebbyLab](http://twitter.com/webbylab).
